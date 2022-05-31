@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/GBT5GFo.gif" width="100"/>
 <div id="views">
-     <img src="https://komarev.com/ghpvc/?username=idrklol&style=flat&color=f48faa" alt="https://discord.gg/M3DwBkzfT6"/>
+     <img src="https://komarev.com/ghpvc/?username=dazziedez&style=flat&color=f48faa" alt="https://discord.gg/M3DwBkzfT6"/>
   </div>
 <h1>
   I'm dazzie hi!!!
