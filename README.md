@@ -5,7 +5,7 @@
   </div>
 <h1>
   I'm dazzie hi!!!
-  <img src="https://c.tenor.com/K-BBg8fYIdQAAAAi/kirana-margay.gif" width="30px"/>
+  <img src="https://c.tenor.com/K-BBg8fYIdQAAAAi/kirana-margay.gif" width="30"/>
 </h1>
 </div>
 
@@ -16,7 +16,7 @@
 
 feel free to fork and edit any of my repositories!
 ### -------
-- i do random stuff for fun <img src="https://c.tenor.com/b46GRzAmGeYAAAAi/chika-dance.gif" width="20px"/>
+- i do random stuff for fun <img src="https://c.tenor.com/b46GRzAmGeYAAAAi/chika-dance.gif" width="20"/>
 - discord.py bots best ww
 - i'm 16
 
