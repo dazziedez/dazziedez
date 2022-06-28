@@ -17,7 +17,7 @@
 feel free to fork and edit any of my repositories!
 ### -------
 - i do random stuff for fun <img src="https://c.tenor.com/b46GRzAmGeYAAAAi/chika-dance.gif" width="20"/>
-- discord.py bots best ww
+- i think blobby blobby is very cool
 - i'm 16
 
 ## cool languages (i'm cool)
