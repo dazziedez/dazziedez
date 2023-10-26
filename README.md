@@ -5,8 +5,9 @@
 <p3>
      Don't look at my shameful projects. They are worthy of or causing shame or disgrace.
 </p3>
+<details>
+<summary>What's markdown? (Don't mind the footnote)</summary>
 
----
 <p align='center'>
      <a href="https://www.markdownguide.org/">
           <img src="https://cdn.discordapp.com/emojis/1079175615887970344.webp" alt="monokoup" width="100" height="100">
@@ -299,3 +300,4 @@ You can also use HTML tags within Markdown for more advanced formatting when Mar
 </details>
 
 There it is for you!! There's plenty more to discover, the only limit is your immagination!! (And styles, you can't use css here.)
+</details>
