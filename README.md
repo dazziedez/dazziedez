@@ -9,8 +9,8 @@
 <summary>What's markdown? (Don't mind the footnote)</summary>
 
 <p align='center'>
+     <img src="https://cdn.discordapp.com/emojis/1079175615887970344.webp" alt="monokoup" width="100" height="100">
      <a href="https://www.markdownguide.org/">
-          <img src="https://cdn.discordapp.com/emojis/1079175615887970344.webp" alt="monokoup" width="100" height="100">
           <img src="https://skillicons.dev/icons?i=md" alt="Markdown" width="100" height="100">
      </a>
 </p>
